@@ -26,7 +26,8 @@ function Slider() {
       <Carousel.Item onClick={() => handleItemClick('/Unstitch')}>
         <img 
           className="d-block w-100"
-          src="https://www.junaidjamshed.com/media/weltpixel/owlcarouselslider/images/w/e/web-banner_1_.jpg"
+          // src="https://www.junaidjamshed.com/media/weltpixel/owlcarouselslider/images/w/e/web-banner_1_.jpg"
+          src="https://www.powersutra.co/cdn/shop/articles/dresses_for_straight_body_shape.jpg?v=1723966087&width=1920"
           alt="Second slide"
           style={{ cursor: 'pointer' }} 
         />
@@ -37,7 +38,8 @@ function Slider() {
       <Carousel.Item onClick={() => handleItemClick('/Unstitch')}>
         <img 
           className="d-block w-100"
-          src="https://baroque.pk/cdn/shop/files/website_banner_86b73f0b-d424-41c4-91d9-ca96af3cef62.jpg?v=1727074952&width=1600"
+          // src="https://baroque.pk/cdn/shop/files/website_banner_86b73f0b-d424-41c4-91d9-ca96af3cef62.jpg?v=1727074952&width=1600"
+          src="https://www.powersutra.co/cdn/shop/articles/dresses_for_straight_body_shape.jpg?v=1723966087&width=1920"
           alt="Third slide"
           style={{ cursor: 'pointer' }} 
         />
