@@ -14,7 +14,7 @@ function Header() {
       <Navbar key={expand} expand={expand} className="navbar-dark sticky top-0  z-50 bg-dark">
         <Container fluid>
           <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
-          <Navbar.Brand href="#">J.</Navbar.Brand>
+          <Navbar.Brand href="#">Brand Name</Navbar.Brand>
           <Navbar.Offcanvas
             id={`offcanvasNavbar-expand-${expand}`}
             aria-labelledby={`offcanvasNavbarLabel-expand-${expand}`}

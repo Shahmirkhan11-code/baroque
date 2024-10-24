@@ -15,7 +15,7 @@ function Slider() {
       <Carousel.Item onClick={() => handleItemClick('/Unstitch')}>
         <img 
           className="d-block w-100"
-          src="https://www.junaidjamshed.com/media/weltpixel/owlcarouselslider/images/b/a/banner_114.jpg"
+          src="https://www.powersutra.co/cdn/shop/articles/dresses_for_straight_body_shape.jpg?v=1723966087&width=1920"
           alt="First slide"
           style={{ cursor: 'pointer' }} 
         />

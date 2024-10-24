@@ -42,7 +42,7 @@ function Footer() {
           <h5 className='text-xl font-bold'>Customer Service</h5>
           <h5 className='text-base mt-4'>Contact Us</h5>
           <h5 className='text-base'>Dispatch Timeline</h5>
-          <h5 className='text-base'>Email: info@baroque.pk</h5>
+          <h5 className='text-base'>Email: info@Shami.pk</h5>
           <h5 className='text-base'>Call: +92 325 700 1111</h5>
           <h5 className='text-base'>WhatsApp: +92 325 7001111</h5>
           {/* <h5 className='text-base'>Track My Order</h5>
